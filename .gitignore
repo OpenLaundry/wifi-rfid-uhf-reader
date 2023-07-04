@@ -1,0 +1,9 @@
+code/build
+
+*/.vscode
+
+*.zip
+
+fp-info-cache
+
+plot
