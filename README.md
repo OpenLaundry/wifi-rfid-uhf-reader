@@ -10,7 +10,7 @@
 
 ## SCHEMATIC VIEW
 
-![Schematic](pcb/pcb_schematic.png?raw=true)
+![Schematic](pcb/schematic.png?raw=true)
 
 ## PCB VIEW
 
@@ -18,8 +18,4 @@
 
 ## 3D VIEW
 
-![Schematic](pcb/pcb_3d.png?raw=true)
-
-## RFID MODULE
-
-![Schematic](pcb/module.png?raw=true)
+![Schematic](pcb/3d.png?raw=true)
