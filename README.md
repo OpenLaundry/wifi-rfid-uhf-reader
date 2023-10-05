@@ -26,12 +26,12 @@
 
 ### SCHEMATIC VIEW
 
-![Schematic](pcb/schematic.png?raw=true)
+![Schematic](old/schematic.png?raw=true)
 
 ### PCB VIEW
 
-![PCB](pcb/pcb.png?raw=true)
+![PCB](old/pcb.png?raw=true)
 
 ### 3D VIEW
 
-![3D](pcb/3d.png?raw=true)
+![3D](old/3d.png?raw=true)
