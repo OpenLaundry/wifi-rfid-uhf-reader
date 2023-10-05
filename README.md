@@ -24,14 +24,14 @@
 
 ## OLD VERSION ON FUSION360
 
-###SCHEMATIC VIEW
+### SCHEMATIC VIEW
 
 ![Schematic](pcb/schematic.png?raw=true)
 
-###PCB VIEW
+### PCB VIEW
 
 ![PCB](pcb/pcb.png?raw=true)
 
-###3D VIEW
+### 3D VIEW
 
 ![3D](pcb/3d.png?raw=true)
