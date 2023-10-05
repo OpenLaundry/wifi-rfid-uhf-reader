@@ -8,14 +8,30 @@
 - [x] ESP32
 - [x] VM-5GA
 
-## SCHEMATIC VIEW
+## NEW VERSION ON KICAD
+
+### SCHEMATIC VIEW
+
+![Schematic](v2/pcb/pcb_schematic.png)
+
+### PCB VIEW
+
+![Schematic](v2/pcb/pcb.png)
+
+### 3D VIEW
+
+![3D](v2/pcb/pcb_3d.png)
+
+## OLD VERSION ON FUSION360
+
+###SCHEMATIC VIEW
 
 ![Schematic](pcb/schematic.png?raw=true)
 
-## PCB VIEW
+###PCB VIEW
 
-![Schematic](pcb/pcb.png?raw=true)
+![PCB](pcb/pcb.png?raw=true)
 
-## 3D VIEW
+###3D VIEW
 
-![Schematic](pcb/3d.png?raw=true)
+![3D](pcb/3d.png?raw=true)
