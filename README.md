@@ -10,6 +10,11 @@
 
 ## NEW VERSION ON KICAD
 
+### USING
+
+![real1](v2/real1.jpg)
+![real2](v2/real2.jpg)
+
 ### SCHEMATIC VIEW
 
 ![Schematic](v2/pcb/pcb_schematic.png)
